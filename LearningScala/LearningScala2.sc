@@ -82,6 +82,7 @@ var c = a+a1                                      //> c  : Int = 1
   
    println ("a, b, c")                            //> a, b, c
    
+   println ("The test is complete")               //> The test is complete
  
  
  
